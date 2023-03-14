@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\bin\Debug\Konstruqtori_the_Sivrce_1.exe.config
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\bin\Debug\Konstruqtori_the_Sivrce_1.exe
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\bin\Debug\Konstruqtori_the_Sivrce_1.pdb
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.Form1.resources
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.Properties.Resources.resources
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.exe
+C:\Users\Student\source\repos\Konstruqtori_the_Sivrce_1\obj\Debug\Konstruqtori_the_Sivrce_1.pdb
